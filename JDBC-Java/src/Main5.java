@@ -7,7 +7,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class Main5 {
-  //updating data from db
+  //deleting data from db
   public static void main(String[] args) {
     Connection connection = null;
     PreparedStatement statement = null;
